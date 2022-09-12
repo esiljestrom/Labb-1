@@ -3,6 +3,7 @@
 //================================================
 
 bool isRunning = true;
+int extraVariabel = 10; // Det här är min lilla ändring i programmet
 
 while (isRunning)
 {
