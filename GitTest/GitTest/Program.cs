@@ -4,7 +4,7 @@
 
 bool isRunning = true;
 int extraVariabel = 10; // Det här är min lilla ändring i programmet
-int extraVariabel2 = 20; // Det här är min andra ändring i programmet
+int extraVariabel2 = 20; // Det här är min andra ändring i programmm
 
 while (isRunning)
 {
